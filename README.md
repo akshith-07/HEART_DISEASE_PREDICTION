@@ -8,7 +8,7 @@
 
 ## OBJECTIVE 
 
-The main aim of the project is to predict heart diseasevia three different supervised machine learning methods including: SVM, Logistic regression and the MLP Classifier . This project also aims to propose an effective technique for earlier detection of the diabetes disease so that a person can avoid the serious stage/conditon of the diabetes.
+The main aim of the project is to predict heart disease via three different supervised machine learning methods including: SVM, Logistic regression and the MLP Classifier . This project also aims to propose an effective technique for earlier detection of the heart disease so that a person can avoid the serious stage/conditon of the heart disease.
 
 ## LIBRARIES USED
 
