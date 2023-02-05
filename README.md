@@ -30,7 +30,7 @@ Glucose Level N
  Blood Pressure N
 Skin Thickness(mm) N
 Insulin N
-BMI N
+BMI N  
 Age N
 
 ### Data Pre-processing:
