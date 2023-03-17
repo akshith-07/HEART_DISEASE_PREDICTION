@@ -15,7 +15,7 @@ The main aim of the project is to predict heart disease via three different supe
 A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for different programs. Python libraries play a very vital role in fields of Machine Learning, Data Science, Data Visualization, etc.Python libraries that are used in the project are:
 • Pandas
 • gradio
-• Numpy
+• Numpy 
 • Matplotlib
 
 ## MODULES DESCRIPTION  
