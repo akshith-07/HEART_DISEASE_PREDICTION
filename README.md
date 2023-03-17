@@ -5,7 +5,7 @@
 ## OVERVIEW   
 
   Heart related diseases or Cardiovascular Diseases (CVDs) are the main reason for a huge number of death in the world over the last fewdecades and has emerged as the most life-threatening disease, not only in India but in the whole world. So, there is a need of reliable,accurate and feasible system to diagnose such diseases in time for proper treatment. Machine Learning algorithms and techniques havebeen applied to various medical datasets to automate the analysis of large and complex data. Many researchers, in recent times, havebeen using several machine learning techniques to help the health care industry and the professionals in the diagnosis of heart relateddiseases. This paper presents a survey of various models based on such algorithms and techniques andanalyze their performance. Models based on supervised learning algorithms such as Support Vector Machines (SVM), K-Nearest Neighbour (KNN), NaïveBayes, DecisionTrees (DT), Random Forest (RF) and ensemble models are found very popular among the researchers.
- 
+  
 ## OBJECTIVE   
  
 The main aim of the project is to predict heart disease via three different supervised machine learning methods including: SVM, Logistic regression and the MLP Classifier . This project also aims to propose an effective technique for earlier detection of the heart disease so that a person can avoid the serious stage/conditon of the heart disease.
